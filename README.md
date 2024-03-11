@@ -6,4 +6,4 @@ Drew inspiration from build of supabase container images for postgresql. Many of
 # How to build
 1. Clone this repository
 2. Build with docker e.g. ```docker build -t ghcr.io/cloudnativesoftware/postgresql:15.6 .```
-3. docker push ghcr.io/cloudnativesoftware/postgresql:15.6 .
+3. Push container image ```docker push ghcr.io/cloudnativesoftware/postgresql:15.6```
